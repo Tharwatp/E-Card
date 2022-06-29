@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978534935688",
+    "project_id": "ecard-7f534",
+    "storage_bucket": "ecard-7f534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978534935688:android:3139279c4f527c49b2c33d",
+        "android_client_info": {
+          "package_name": "com.twotech.ecard.ecard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978534935688-fmdb2qpvu0grbm8v0lg6oqaui2m6k0oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT6oZNb3tBu1tYOd44T5IraWd3mprEi9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978534935688-fmdb2qpvu0grbm8v0lg6oqaui2m6k0oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
